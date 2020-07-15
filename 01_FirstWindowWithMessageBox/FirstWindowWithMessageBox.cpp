@@ -97,6 +97,11 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 
 		//Last Message To Be Received
 		case WM_DESTROY:
+			MessageBox(hwnd,
+				TEXT("WM_DESTROY received..."),
+				TEXT("Message::WM_DESTROY"),
+				MB_OK);
+			
 			PostQuitMessage(0);
 			break;
 	}
