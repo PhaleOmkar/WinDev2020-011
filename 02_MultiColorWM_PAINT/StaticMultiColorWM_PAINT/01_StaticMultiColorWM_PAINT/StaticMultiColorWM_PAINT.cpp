@@ -181,7 +181,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 			TextOut(hdc, 16, 64, "Blue - b/B", sizeof("Blue - b/B"));
 			TextOut(hdc, 16, 80, "Green - g/G", sizeof("Green - g/G"));
 			TextOut(hdc, 16, 96, "Yellow - y/Y", sizeof("Yellow - y/Y"));
-			TextOut(hdc, 16, 112, "Orange - o/O", sizeof("Orange - o/O"));
+			TextOut(hdc, 16, 112, "Orange - o/O", sizeof("Ora3nge - o/O"));
 			TextOut(hdc, 16, 128, "Red - r/Red", sizeof("Red - r/Red"));
 			TextOut(hdc, 16, 144, "Default - w/W", sizeof("Default - w/W"));
 

@@ -1,0 +1,4 @@
+#pragma once
+
+#define DEFAULT_LARGE_ICON 4896
+#define DEFAULT_SMALL_ICON 5896

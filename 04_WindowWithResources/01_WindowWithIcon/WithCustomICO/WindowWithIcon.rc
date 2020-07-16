@@ -1,0 +1,5 @@
+//Headers File Declaration
+#include "WindowWithIcon.h"
+
+DEFAULT_LARGE_ICON ICON default_large_icon.ico
+DEFAULT_SMALL_ICON ICON default_small_icon.ico
