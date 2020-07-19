@@ -1,0 +1,4 @@
+//Headers File Declaration
+#include "BlueScreenWithFullScreenFeatures.h"
+
+DEFAULT_LARGE_ICON ICON default_large_icon.ico

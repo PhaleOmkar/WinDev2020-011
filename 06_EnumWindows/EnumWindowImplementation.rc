@@ -1,0 +1,4 @@
+//Headers File Declaration
+#include "EnumWindowImplementation.h"
+
+DEFAULT_LARGE_ICON ICON default_large_icon.ico

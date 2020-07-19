@@ -1,0 +1,996 @@
+Class Name : tooltips_class32
+Title : 
+
+Class Name : SynTPEnhTFPWndClass
+Title : Forcepad driver tray window
+
+Class Name : Afx:00007FF73BBF0000:0
+Title : CBHOHostMainWindowMetro
+
+Class Name : SynTrackCursorWindowClass
+Title : 
+
+Class Name : ForegroundStaging
+Title : 
+
+Class Name : ForegroundStaging
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : MozillaWindowClass
+Title : Email - Omkar Phale - Outlook
+
+Class Name : MozillaWindowClass
+Title : ?Nope?
+
+Class Name : TaskListThumbnailWnd
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : Shell_TrayWnd
+Title : 
+
+Class Name : MozillaDropShadowWindowClass
+Title : 
+
+Class Name : MozillaWindowClass
+Title : Open a new tab (Ctrl+T)
+
+Class Name : Auto-Suggest Dropdown
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : NotifyIconOverflowWindow
+Title : 
+
+Class Name : SystemTray_Main
+Title : Battery Meter
+
+Class Name : ATL:00007FFE22C48280
+Title : 
+
+Class Name : ATL:00007FFE09854230
+Title : Network Flyout
+
+Class Name : PNIHiddenWnd
+Title : 
+
+Class Name : CiceroUIWndFrame
+Title : CiceroUIWndFrame
+
+Class Name : MozillaWindowClass
+Title : Restore Down
+
+Class Name : MozillaDropShadowWindowClass
+Title : 
+
+Class Name : CiceroUIWndFrame
+Title : CiceroUIWndFrame
+
+Class Name : HwndWrapper[IDE/devenv.exe.config;ThreadedWaitDialog;11cc0407-9c83-4f7b-b18d-2d
+Title : Microsoft Visual Studio
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : Chrome_WidgetWin_1
+Title : Microsoft Teams Notification
+
+Class Name : MozillaWindowClass
+Title : https://outlook.office.com/mail/inbox/id/AAQkADM3YWZmMzA3LWRkNGQtNDM1OS05NmQ5LW
+
+Class Name : CWebSiteFaceLoginWindowClass
+Title : 
+
+Class Name : CWebUserInfoWindowClass
+Title : 
+
+Class Name : CFaceAwayWindowClass
+Title : FaceAwayCountDownDlg
+
+Class Name : HPMSGSVC
+Title : HPMSGSVC
+
+Class Name : Afx:00007FF701E10000:0
+Title : CBHOHostMainWindowDskTop
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : FirstWindowUsingWin32
+Title : Omkar Phale RTR2020-112
+
+Class Name : GDI+ Hook Window Class
+Title : G
+
+Class Name : .NET-BroadcastEventWindow.4.0.0.0.37a9c05.0
+Title : .NET-BroadcastEventWindow.4.0.0.0.37a9c05.0
+
+Class Name : ConsoleWindowClass
+Title : Developer Command Prompt for VS 2019
+
+Class Name : Notepad
+Title : Untitled - Notepad
+
+Class Name : HwndWrapper[DefaultDomain;;0fd65e1e-5e98-4ed7-aa6d-1457c500fd32]
+Title : EnumWindowImplementation.cpp - Microsoft Visual Studio
+
+Class Name : VisualStudioGlowWindow
+Title : 
+
+Class Name : VisualStudioGlowWindow
+Title : 
+
+Class Name : VisualStudioGlowWindow
+Title : 
+
+Class Name : VisualStudioGlowWindow
+Title : 
+
+Class Name : MozillaWindowClass
+Title : 
+
+Class Name : MozillaWindowClass
+Title : WhatsApp - Mozilla Firefox
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : CabinetWClass
+Title : 06_EnumWindows
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : CabinetWClass
+Title : 02_GUIBased
+
+Class Name : HwndlessEditorFakeHwndWrapperf9e6616d-bf1b-455c-8bd8-d935b8e0451f
+Title : 
+
+Class Name : UIRibbonStdCompMgr
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : ApplicationManager_DesktopShellWindow
+Title : 
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : HwndWrapper[HlpViewer.exe;;0430a44f-a2f6-4f58-abfc-ec1ca7d2da03]
+Title : Microsoft Help Viewer 2.3 - Visual Studio Documentation
+
+Class Name : VisualStudioGlowWindow
+Title : 
+
+Class Name : VisualStudioGlowWindow
+Title : 
+
+Class Name : VisualStudioGlowWindow
+Title : 
+
+Class Name : VisualStudioGlowWindow
+Title : 
+
+Class Name : SystemSettingsHandlerWorkerWindowSta-00007FFDF4030000
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : Windows.UI.Core.CoreWindow
+Title : Settings
+
+Class Name : HwndlessEditorFakeHwndWrappera2fdf03f-cfe5-4229-aa19-c70a77c2b401
+Title : 
+
+Class Name : CTouchPadSynchronizer
+Title : TouchPad object helper window
+
+Class Name : VSyncHelper-0DA3A420-16e6f4c123
+Title : 
+
+Class Name : GDI+ Hook Window Class
+Title : G
+
+Class Name : .NET-BroadcastEventWindow.4.0.0.0.16fed80.0
+Title : .NET-BroadcastEventWindow.4.0.0.0.16fed80.0
+
+Class Name : HwndWrapper[HlpViewer.exe;;126cfb02-2eeb-4e7a-a7bb-db2b4c65ac0f]
+Title : 
+
+Class Name : OleDdeWndClass
+Title : DDE Server Window
+
+Class Name : WindowsForms10.Window.0.app.0.16fed80_r9_ad1
+Title : 
+
+Class Name : CiceroUIWndFrame
+Title : CiceroUIWndFrame
+
+Class Name : HwndWrapper[HlpViewer.exe;;b5a3f663-0ab5-4c58-bd10-0674fadbf346]
+Title : 
+
+Class Name : HwndWrapper[HlpViewer.exe;;58a4ea94-7eea-4087-91fe-b154cb9f663e]
+Title : SystemResourceNotifyWindow
+
+Class Name : HwndWrapper[HlpViewer.exe;;15ff14a7-0ca9-403f-8822-976f0ded5c28]
+Title : MediaContextNotificationWindow
+
+Class Name : tooltips_class32
+Title : 
+
+Class Name : ComboLBox
+Title : 
+
+Class Name : Chrome_WidgetWin_1
+Title : Reshma Gawade | Microsoft Teams
+
+Class Name : ApplicationFrameWindow
+Title : Settings
+
+Class Name : HwndWrapper[DefaultDomain;;daee8db0-3602-423f-b36a-91bdccdeb78e]
+Title : SystemResourceNotifyWindow
+
+Class Name : CiceroUIWndFrame
+Title : CiceroUIWndFrame
+
+Class Name : GDI+ Hook Window Class
+Title : G
+
+Class Name : .NET-BroadcastEventWindow.4.0.0.0.358a177.0
+Title : .NET-BroadcastEventWindow.4.0.0.0.358a177.0
+
+Class Name : HwndWrapper[IDE/devenv.exe.config;ThreadedWaitDialog;47a0784d-add9-4e3f-af9c-b2
+Title : Hidden Window
+
+Class Name : .NET-BroadcastEventWindow.4.0.0.0.16f593f.0
+Title : .NET-BroadcastEventWindow.4.0.0.0.16f593f.0
+
+Class Name : HwndWrapper[IDE/devenv.exe.config;ThreadedWaitDialog;ff5a542a-ceaa-411b-99f6-87
+Title : 
+
+Class Name : HwndWrapper[IDE/devenv.exe.config;ThreadedWaitDialog;4ff5331f-1ba7-4688-9d11-a4
+Title : SystemResourceNotifyWindow
+
+Class Name : HwndWrapper[IDE/devenv.exe.config;ThreadedWaitDialog;ee0ef078-c899-4020-a079-91
+Title : MediaContextNotificationWindow
+
+Class Name : GDI+ Hook Window Class
+Title : G
+
+Class Name : HwndWrapper[DefaultDomain;StatusBar;7d36d269-f91c-41e6-999b-73fd61dec96a]
+Title : MediaContextNotificationWindow
+
+Class Name : HwndWrapper[DefaultDomain;StatusBar;d6ff7229-6f29-4bf7-90b5-46bfe3a70cc4]
+Title : SystemResourceNotifyWindow
+
+Class Name : .NET-BroadcastEventWindow.4.0.0.0.5d8554.0
+Title : .NET-BroadcastEventWindow.4.0.0.0.5d8554.0
+
+Class Name : HwndWrapper[DefaultDomain;;b8374f3d-5ad1-449c-8639-8794c6d32012]
+Title : 
+
+Class Name : HwndWrapper[DefaultDomain;;044bf4c4-2c1b-44f8-a98b-cc4363dd8473]
+Title : MediaContextNotificationWindow
+
+Class Name : HwndWrapper[DefaultDomain;;ee6b2140-bab4-4328-9b4c-f9165f50e591]
+Title : SystemResourceNotifyWindow
+
+Class Name : VisualStudioAppManagement
+Title : Visual Studio Application Management Window
+
+Class Name : MsoStdCompMgr
+Title : 
+
+Class Name : OleDdeWndClass
+Title : DDE Server Window
+
+Class Name : UIRibbonStdCompMgr
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : OperationStatusWindow
+Title : 100% complete
+
+Class Name : GDI+ Hook Window Class
+Title : G
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : Afx:0000000140000000:0
+Title : Realtek SpeakerTestManager
+
+Class Name : Chrome_WidgetWin_1
+Title : Teams
+
+Class Name : SystemSettingsHandlerWorkerWindowSta-00007FFE1BA60000
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : SkyLibWindowsReactor
+Title : 
+
+Class Name : wndProcClass
+Title : wndProcClass
+
+Class Name : RtcPalVideoPnPMonitorHWND
+Title : Rtc Video PnP Listener
+
+Class Name : SkyLibWindowsReactor
+Title : 
+
+Class Name : Chrome_WidgetWin_0
+Title : 
+
+Class Name : Chrome_WidgetWin_0
+Title : 
+
+Class Name : Chrome_WidgetWin_0
+Title : 
+
+Class Name : Electron_NotifyIconHostWindow
+Title : 
+
+Class Name : Chrome_WidgetWin_0
+Title : 
+
+Class Name : Electron_SystemPreferencesHostWindow
+Title : 
+
+Class Name : Chrome_SystemMessageWindow
+Title : 
+
+Class Name : Chrome_WidgetWin_0
+Title : 
+
+Class Name : Base_PowerMessageWindow
+Title : 
+
+Class Name : NotificationManager
+Title : 
+
+Class Name : Windows.UI.Core.CoreWindow
+Title : Microsoft Text Input Application
+
+Class Name : ApplicationFrameWindow
+Title : 
+
+Class Name : Windows.UI.Core.CoreWindow
+Title : Films & TV
+
+Class Name : ApplicationFrameWindow
+Title : Films & TV
+
+Class Name : DeviceInfoDS
+Title : 
+
+Class Name : MozillaHiddenWindowClass
+Title : 
+
+Class Name : Mozilla_firefox_default-release_RemoteWindow
+Title : 
+
+Class Name : Windows.UI.Core.CoreWindow
+Title : Microsoft Store
+
+Class Name : ApplicationFrameWindow
+Title : Microsoft Store
+
+Class Name : WorkerW
+Title : 
+
+Class Name : {5AEA657D-F3F5-4BD8-BFE9-A4B537FA24C3}
+Title : {5AEA657D-F3F5-4BD8-BFE9-A4B537FA24C3}
+
+Class Name : NVIDIA NodeJS Share Window
+Title : NVIDIA NodeJS Share Window
+
+Class Name : HPSmplPass-36040A23-789A-4721-9F61-A5A4DB0F7D79
+Title : MsgWnd
+
+Class Name : WorkerW
+Title : 
+
+Class Name : Afx:0000000140000000:0
+Title : Realtek HD Audio CPL for Vista
+
+Class Name : RtkVenderSpecSettingClass
+Title : CVenderSpecSetting
+
+Class Name : Afx:0000000140000000:0
+Title : ViennaSettingUI
+
+Class Name : Windows.UI.Core.CoreWindow
+Title : Window
+
+Class Name : Afx:0000000140000000:0
+Title : Realtek HD Audio New GUI
+
+Class Name : Message
+Title : Animate Manager
+
+Class Name : Afx:0000000140000000:0
+Title : RTK TRAYICON
+
+Class Name : RtkAudioEngineClass
+Title : AudioEngine For Realtek HD Audio New GUI
+
+Class Name : Afx:0000000140000000:0
+Title : RTK AUDIO DRIVER EVENT MGR
+
+Class Name : GDI+ Hook Window Class
+Title : G
+
+Class Name : ATL:00007FFE20A68000
+Title : 
+
+Class Name : SecHealth Window Class
+Title : SecurityHealthSystray
+
+Class Name : BluetoothNotificationAreaIconWindowClass
+Title : BluetoothNotificationAreaIconWindowClass
+
+Class Name : opvapp
+Title : opvapp
+
+Class Name : UxdService
+Title : UxdService
+
+Class Name : WorkerW
+Title : 
+
+Class Name : MS_WebcheckMonitor
+Title : MS_WebcheckMonitor
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : OleDdeWndClass
+Title : DDE Server Window
+
+Class Name : NVSVC64.DLL
+Title : NvSvc
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : TabletModeCoverWindow
+Title : 
+
+Class Name : EdgeUiInputTopWndClass
+Title : 
+
+Class Name : DummyDWMListenerWindow
+Title : 
+
+Class Name : DummyDWMListenerWindow
+Title : 
+
+Class Name : DummyDWMListenerWindow
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : WorkerW
+Title : 
+
+Class Name : DDEMLEvent
+Title : 
+
+Class Name : DDEMLMom
+Title : 
+
+Class Name : BroadcastListenerWindowThreadClass8904
+Title : BroadcastListenerWindow
+
+Class Name : BroadcastListenerWindowThreadClass8152
+Title : BroadcastListenerWindow
+
+Class Name : #32770
+Title : HotKey Listener
+
+Class Name : PushNotificationsPowerManagement
+Title : Windows Push Notifications Platform
+
+Class Name : #32770
+Title : The Event Manager - Status
+
+Class Name : NvContainerWindowClass00000E64
+Title : NvContainerWindowClass00000E64
+
+Class Name : COMTASKSWINDOWCLASS
+Title : Task Host Window
+
+Class Name : SynTPEnhTrayWndClass
+Title : Touchpad driver tray icon window
+
+Class Name : Afx:0000000140000000:0
+Title : Realtek HD Audio Background Process for Vista
+
+Class Name : GDI+ Hook Window Class
+Title : G
+
+Class Name : CTouchPadSynchronizer
+Title : TouchPad object helper window
+
+Class Name : SynTPEnhWndClass
+Title : Touchpad driver helper window
+
+Class Name : ScrollerooWindowClass
+Title : Touchpad driver backward compatibility window
+
+Class Name : NvContainerWindowClass00001B14
+Title : NvContainerWindowClass00001B14
+
+Class Name : Dwm
+Title : DWM Notification Window
+
+Class Name : HPCoolSense
+Title : HP CoolSense
+
+Class Name : GDI+ Hook Window Class
+Title : G
+
+Class Name : FilterGraphWindow
+Title : ActiveMovie Window
+
+Class Name : FilterGraphWindow
+Title : ActiveMovie Window
+
+Class Name : CWebcamFaceLoginDummyWindow
+Title : CWebcamFaceLoginDummyWindow
+
+Class Name : CWebcamFaceLoginDummyWindow
+Title : CWebcamFaceLoginDummyWindow
+
+Class Name : YCM FaceAway
+Title : YCM FaceAway
+
+Class Name : YCM WebLogin
+Title : YCM WebLogin
+
+Class Name : YCM Mirage
+Title : {94F11419-869E-47aa-9563-F48591285CAD}
+
+Class Name : GDI+ Hook Window Class
+Title : G
+
+Class Name : YouCamService Class
+Title : YouCamService Window
+
+Class Name : CicLoaderWndClass
+Title : 
+
+Class Name : Internet Explorer_Hidden
+Title : 
+
+Class Name : Progman
+Title : Program Manager
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : IME
+Title : Default IME
+
+Class Name : MSCTFIME UI
+Title : MSCTFIME UI
+
+Class Name : IME
+Title : Default IME
+
