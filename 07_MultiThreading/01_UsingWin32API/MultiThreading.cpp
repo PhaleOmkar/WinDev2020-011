@@ -3,6 +3,10 @@
 //Header Files
 #include <windows.h>
 
+//Macro Definition
+#define WINDOW_WIDTH 800
+#define WINDOW_HEIGHT 600
+
 //Gloabal Function Declaration
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 DWORD WINAPI ThreadProcOne(LPVOID);
@@ -125,14 +129,21 @@ DWORD WINAPI ThreadProcOne(LPVOID lpvParam)
 	HDC hdc;
 	ULONG lCounter;
 	TCHAR szPrintable[255];
+	RECT rect;
 
 	//Code
+	GetWindowRect(GetDesktopWindow(), &rect);
+
 	hdc = GetDC((HWND)lpvParam);
 	for (lCounter = 0; lCounter < ULONG_MAX; lCounter++)
 	{
 		wsprintf(szPrintable, TEXT("ThreadOne[Increasing]::%lu"), lCounter);
-		TextOut(hdc, 5, 5, szPrintable, wcslen(szPrintable));
-		SetTextColor(hdc, RGB(255, 0, 0));
+		TextOut(hdc, 
+			(rect.right - WINDOW_WIDTH),
+			WINDOW_HEIGHT / 2, 
+			szPrintable, 
+			wcslen(szPrintable));
+		SetTextColor(hdc, RGB(0, 255, 0));
 	}
 
 	if (hdc)
@@ -150,14 +161,21 @@ DWORD WINAPI ThreadProcTwo(LPVOID lpvParam)
 	HDC hdc;
 	ULONG lCounter;
 	TCHAR szPrintable[255];
+	RECT rect;
 
 	//Code
+	GetWindowRect(GetDesktopWindow(), &rect);
+
 	hdc = GetDC((HWND)lpvParam);
 	for (lCounter = ULONG_MAX; lCounter >= 0; lCounter--)
 	{
 		wsprintf(szPrintable, TEXT("ThreadTwo[Decreasing]::%lu"), lCounter);
-		TextOut(hdc, 5, 20, szPrintable, wcslen(szPrintable));
-		SetTextColor(hdc, RGB(0, 255, 0));
+		TextOut(hdc, 
+			WINDOW_WIDTH / 2,
+			WINDOW_HEIGHT / 2, 
+			szPrintable, 
+			wcslen(szPrintable));
+		SetTextColor(hdc, RGB(255, 0, 0));
 	}
 
 	if (hdc)

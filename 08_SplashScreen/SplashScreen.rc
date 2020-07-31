@@ -1,0 +1,3 @@
+#include "SplashScreen.h"
+
+BITMAP_ID BITMAP "moon.bmp"
