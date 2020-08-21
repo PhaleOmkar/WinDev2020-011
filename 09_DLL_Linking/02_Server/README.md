@@ -3,7 +3,7 @@
 ------------------------
 ## 1. declspec method ##
 
-A] Creating DLL ::
+A] Creating DLL
   
     + To create a DLL using declspec method we need to create a Dynamic Link Library project using Visual Studio(2019)
 		- File -> New Project -> Windows Application Wizard -> Dynamic Link Library -> Empty Project -> SetPath
@@ -58,8 +58,8 @@ A] Creating DLL ::
 
 	+ Now Clean -> Build -> Check newly created files(MyMath.dll, MyMath.lib)
 
-B] Using newly created DLL :
-  
+B] Using newly created DLL 
+
     + Now edit the Window creation code as follows
 		- Include header file which contains the MakeSquare() prototype
 		/*Header file declaration*/
@@ -105,7 +105,7 @@ B] Using newly created DLL :
 ------------------------
 ## 2. def file method ##
 
-A] Creating DLL ::
+A] Creating DLL
 	
     + To create a DLL using declspec method we need to create a Dynamic Link Library project using Visual Studio(2019)
 		- File -> New Project -> Windows Application Wizard -> Dynamic Link Library -> Empty Project -> SetPath
@@ -167,7 +167,7 @@ A] Creating DLL ::
 
 	+ Now Clean -> Build -> Check newly created files(MyMath.dll, MyMath.lib)
 
-B] Using newly created DLL ::
+B] Using newly created DLL
 	
     + Now edit the Window creation code as follows
 		- Include header file which contains the MakeSquare() prototype
