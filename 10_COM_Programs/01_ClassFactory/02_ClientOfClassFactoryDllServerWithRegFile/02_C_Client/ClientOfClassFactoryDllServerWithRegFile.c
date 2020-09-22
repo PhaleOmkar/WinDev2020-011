@@ -110,17 +110,8 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 	switch(iMessage)
 	{
 	case WM_CREATE:
-		MessageBox(hwnd,
-			TEXT("In WM_CREATE"),
-			TEXT("Pass 1"),
-			MB_OK);
-
-		hResult = CoCreateInstance(CLSID_SumSubtract, NULL, CLSCTX_INPROC_SERVER, IID_ISum, (void**)&gpISum);
-		MessageBox(hwnd,
-			TEXT("Aftr CoCreateInstance()"),
-			TEXT("Pass 2"),
-			MB_OK);
-
+		hResult = CoCreateInstance(&CLSID_SumSubtract, NULL, CLSCTX_INPROC_SERVER, &IID_ISum, (void**)&gpISum);
+		
 		if (FAILED(hResult))
 		{
 			MessageBox(hwnd,
@@ -130,22 +121,17 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 			DestroyWindow(hwnd);
 		}
 
-		MessageBox(hwnd,
-			TEXT("Aftr CoCreateInstance() error check"),
-			TEXT("Pass 3"),
-			MB_OK);
-
 		iNumber_One = 45;
 		iNumber_Two = 55;
 
-		gpISum->SumOfTwoIntegers(iNumber_One, iNumber_Two, &iResult);
+		gpISum->lpVtbl->SumOfTwoIntegers(gpISum, iNumber_One, iNumber_Two, &iResult);
 		wsprintf(szResult, TEXT("%d + %d = %d"), iNumber_One, iNumber_Two, iResult);
 		MessageBox(hwnd,
 			szResult,
 			TEXT("SumOfTwoIntegers() Result"),
 			MB_OK);
 
-		hResult = gpISum->QueryInterface(IID_ISubtract, (void**)&gpISubtract);
+		hResult = gpISum->lpVtbl->QueryInterface(gpISum, &IID_ISubtract, (void**)&gpISubtract);
 		if (FAILED(hResult))
 		{
 			MessageBox(hwnd,
@@ -155,22 +141,23 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 			DestroyWindow(hwnd);
 		}
 
-		gpISum->Release();
-		gpISum = NULL;
-
+		
 		iNumber_One = 450;
 		iNumber_Two = 55;
 
-		gpISubtract->SubtractionOfTwoIntegers(iNumber_One, iNumber_Two, &iResult);
+		gpISubtract->lpVtbl->SubtractionOfTwoIntegers(gpISubtract, iNumber_One, iNumber_Two, &iResult);
 		wsprintf(szResult, TEXT("%d - %d = %d"), iNumber_One, iNumber_Two, iResult);
 		MessageBox(hwnd,
 			szResult,
 			TEXT("SubtractionOfTwoIntegers() Result"),
 			MB_OK);
 
-		gpISubtract->Release();
+		gpISubtract->lpVtbl->Release(gpISubtract);
 		gpISubtract = NULL;
 		
+		gpISum->lpVtbl->Release(gpISum);
+		gpISum = NULL;
+
 		DestroyWindow(hwnd);
 		break;
 
@@ -191,13 +178,13 @@ void SafeInterfaceRelease(void)
 	//Code
 	if (gpISum)
 	{
-		gpISum->Release();
+		gpISum->lpVtbl->Release(gpISum);
 		gpISum = NULL;
 	}
 
 	if (gpISubtract)
 	{
-		gpISubtract->Release();
+		gpISubtract->lpVtbl->Release(gpISubtract);
 		gpISubtract = NULL;
 	}
 }
